@@ -76,7 +76,7 @@ end
 spawn(function()
     while hrp.Parent ~= nil do
         hrp.CFrame = dropcf
-        hrp.Velocity = Vector3.new(0,25,0) -- 10 is the original for r6
+        hrp.Velocity = Vector3.new(0,25,0)
         hrp.RotVelocity = Vector3.new(0,0,0)
         game:GetService("RunService").Heartbeat:wait()
     end
