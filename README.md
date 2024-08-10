@@ -1,5 +1,5 @@
 # hatdrop
-working method to give hats collision in roblox, brought to you by gee cee, made solely by shownape
+working method to give hats collision in roblox, brought to you by [gee cee](https://www.roblox.com/groups/34681971/gee-cee#), made solely by shownape
 
 this DOES need you to both have a hat equipped on your avatar and an executor with access to sethiddenproperty / setscriptable. also i should state that 99% of accessories not attached to your head seem to not drop, im sure theres a solution but im yet to implement it.
 
